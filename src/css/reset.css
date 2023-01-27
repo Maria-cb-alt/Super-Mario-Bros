@@ -1,0 +1,17 @@
+
+/*Tudo que vai antes das chaves se chama Seletor e o que vai dentro das chaves são as propriedades*/
+
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
